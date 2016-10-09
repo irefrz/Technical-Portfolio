@@ -1,0 +1,1 @@
+exec AdventureWorksSample @Org=6, @Amt=8913 

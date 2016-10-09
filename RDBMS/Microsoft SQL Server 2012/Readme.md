@@ -1,0 +1,1 @@
+All tables used are part of the AdventureWorks sample data warehouse provided by Microsoft.
